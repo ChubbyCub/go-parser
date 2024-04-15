@@ -1,6 +1,6 @@
 // lexer/lexer_test.go
 
-package Lexer
+package lexer
 
 import (
 	"testing"
